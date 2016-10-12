@@ -1,0 +1,7 @@
+---
+- hosts: all
+  roles:
+    - role_under_test
+  vars:
+    slapd_root_password: "correct horse battery staple"
+    slapd_domain: "example.com"

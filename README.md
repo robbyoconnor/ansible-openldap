@@ -1,6 +1,8 @@
 Ansible Role: OpenLDAP Server (slapd)
 =====================================
 
+[![Build Status](https://travis-ci.org/yatesr/ansible-openldap.svg?branch=master)](https://travis-ci.org/yatesr/ansible-openldap)
+
 Provisions [OpenLDAP](https://www.openldap.org/) server (slapd) on Debian/Ubuntu
 
 Role Variables
